@@ -1,0 +1,12 @@
+de-fr
+nl-pl
+en-lt
+fr-nl
+it-sl
+es-lv
+pl-en
+sl-es
+sl-lt
+lt-de
+lv-it
+lv-pl

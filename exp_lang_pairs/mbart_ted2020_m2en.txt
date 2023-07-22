@@ -1,0 +1,8 @@
+zh_cn-en
+th-en
+ar-en
+he-en
+fi-en
+et-en
+ru-en
+sl-en
